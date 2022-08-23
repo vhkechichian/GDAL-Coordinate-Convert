@@ -1,0 +1,30 @@
+# CMD line queries
+
+ogr2ogr -f "geoJSON" siputeh_A_3097_new.json siputeh_A_3097.json -s_srs EPSG:900913 -t_srs EPSG:4326
+
+ogr2ogr -f "ESRI Shapefile" siputeh_A_3097_new.shp siputeh_A_3097.json -s_srs EPSG:900913 -t_srs EPSG:4326
+-----------------------------------------------------------
+ogr2ogr -t_srs EPSG:4326 -f geoJSON -lco COORDINATE_PRECISION=7 kodiang_A_214_2.json kodiang_A_214.json
+
+ogr2ogr -t_srs EPSG:4326 -f GeoJSON -lco COORDINATE_PRECISION=7 kodiang_A_214.json kodiang_A_214.shp
+
+ogr2ogr -f "ESRI Shapefile" Sydney2.shp Sydney.shp -s_srs EPSG:32656 -t_srs EPSG:4326
+
+ogr2ogr -f "geoJSON" kodiang_A_214.json kodiang_A_214.shp -s_srs EPSG:32656 -t_srs EPSG:4326
+
+ogr2ogr -f "ESRI Shapefile"  Sydney.shp kodiang_A_214.json -s_srs EPSG:32656 -t_srs EPSG:4326
+
+ogr2ogr -t_srs EPSG:4326 -f geoJSON -lco COORDINATE_PRECISION=7 future.geojson siputeh_A_3097.json
+
+ogr2ogr -f EPSG:4326 -f geoJSON -lco COORDINATE_PRECISION=7 future.geojson siputeh_A_3097.json
+
+ogr2ogr -f "geoJSON" future.json siputeh_A_3097.json -s_srs EPSG:32656 -t_srs EPSG:4326
+
+ogr2ogr -f "geoJSON" future9836.json siputeh_A_3097.json -s_srs EPSG:9836 -t_srs EPSG:4326
+
+ogr2ogr -f "geoJSON" future9837.json siputeh_A_3097.json -s_srs EPSG:9836 -t_srs EPSG:4326
+
+ogr2ogr -f "geoJSON" future900913.json siputeh_A_3097.json -s_srs EPSG:900913 -t_srs EPSG:4326
+
+
+
