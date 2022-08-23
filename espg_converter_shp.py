@@ -7,8 +7,7 @@
 # -------------------------------------------------------
 """
 - read from folder data/geojson_iplan
-- convert to shape file, put into shapefile
-    - delete copies/duplicates
+- convert geojson to shape file
 - note:
     - limitation of 10 char in field descriptions. shapefile issue
     - cannot immediately zip, as files need to be created first.
