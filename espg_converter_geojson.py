@@ -7,9 +7,8 @@
 # -------------------------------------------------------
 """
 - read from folder data/geojson_iplan
-- convert to new geojson, put into geojson_new
-- convert to shape file, put into shapefile
-    - delete copies/duplicates
+- convert to new geojson, put into geojson_new. 
+- EPSG:900913 to EPSG:4326
 """
 import os
 import sys
