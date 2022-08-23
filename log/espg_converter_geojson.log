@@ -1,0 +1,22 @@
+2022-08-23 10:08:40,573 - 40 - INFO     - reading from src: data/geojson_iplan
+2022-08-23 10:08:40,573 - 44 - INFO     - no of files: 19
+2022-08-23 10:08:40,574 - 53 - INFO     - 1) padang_sera_A_357.json
+2022-08-23 10:08:40,587 - 53 - INFO     - 2) padang_kabu_A_518.json
+2022-08-23 10:08:40,588 - 53 - INFO     - 3) kodiang_A_1034.json
+2022-08-23 10:08:40,590 - 53 - INFO     - 4) padang_sera_A_449.json
+2022-08-23 10:08:40,591 - 53 - INFO     - 5) kandis_A_1163.json
+2022-08-23 10:08:40,593 - 53 - INFO     - 6) melele_A_181.json
+2022-08-23 10:08:40,595 - 53 - INFO     - 7) siputeh_A_3097.json
+2022-08-23 10:08:40,597 - 53 - INFO     - 8) melele_A_231.json
+2022-08-23 10:08:40,599 - 53 - INFO     - 9) kodiang_A_214.json
+2022-08-23 10:08:40,600 - 53 - INFO     - 10) padang_sera_A_448.json
+2022-08-23 10:08:40,602 - 53 - INFO     - 11) padang_kabu_A_3119.json
+2022-08-23 10:08:40,604 - 53 - INFO     - 12) kandis_A_1053.json
+2022-08-23 10:08:40,605 - 53 - INFO     - 13) padang_kabu_A_4218.json
+2022-08-23 10:08:40,607 - 53 - INFO     - 14) kandis_A_339.json
+2022-08-23 10:08:40,608 - 53 - INFO     - 15) melele_A_229.json
+2022-08-23 10:08:40,610 - 53 - INFO     - 16) siputeh_A_2922.json
+2022-08-23 10:08:40,612 - 53 - INFO     - 17) padang_kabu_A_526.json
+2022-08-23 10:08:40,614 - 53 - INFO     - 18) kodiang_A_929.json
+2022-08-23 10:08:40,615 - 53 - INFO     - 19) bukit_hantu_A_2820.json
+2022-08-23 10:08:40,617 - 75 - INFO     - overall execution time -> 0.044164s
