@@ -6,5 +6,5 @@ coordinate re-projections using gdal
 
 - test geojson/shapefiles on
   - https://geojsonviewer.nsspot.net/
-  - https://mapshaper.org/ (add satellite basemap)
+  - https://mapshaper.org/ 
   - https://maps.equatorstudios.com/tab/Search
