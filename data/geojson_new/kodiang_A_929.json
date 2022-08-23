@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "kodiang_A_929",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "lot_kadaster.fid--704c0346_1829f74c1df_-739a", "no_lot": "929", "negeri_id": "02", "negeri_name": "Kedah", "daerah_id": "0202", "daerah_name": "Kubang Pasu", "mukim_id": "020209", "mukim_name": "Kepelu", "nama_negeri": "Kedah", "nama_daerah": "Kubang Pasu", "nama_mukim": "Kepelu" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 100.311113796288097, 6.397689462736667 ], [ 100.311497303767922, 6.397677519387286 ], [ 100.311457645969554, 6.39734341501376 ], [ 100.310578475500719, 6.397189301861891 ], [ 100.310486104085641, 6.397506836382381 ], [ 100.311113796288097, 6.397689462736667 ] ] ] ] } }
+]
+}

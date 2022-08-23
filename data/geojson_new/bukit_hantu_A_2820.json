@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bukit_hantu_A_2820",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "lot_kadaster.fid--704c0346_1829fc6e969_4087", "no_lot": "2820", "negeri_id": "02", "negeri_name": "Kedah", "daerah_id": "0202", "daerah_name": "Kubang Pasu", "mukim_id": "020209", "mukim_name": "Kepelu", "nama_negeri": "Kedah", "nama_daerah": "Kubang Pasu", "nama_mukim": "Kepelu" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 100.346168858054654, 6.418542845795422 ], [ 100.346290143890883, 6.418748828234091 ], [ 100.347545830499968, 6.418042266739051 ], [ 100.34903081305508, 6.417212461225072 ], [ 100.350415743909323, 6.416412372194113 ], [ 100.350349855568069, 6.416315189406107 ], [ 100.350301756456815, 6.41620009533422 ], [ 100.348861120137087, 6.417023427716355 ], [ 100.347436728538554, 6.417829470385983 ], [ 100.346168858054654, 6.418542845795422 ] ] ] ] } }
+]
+}
